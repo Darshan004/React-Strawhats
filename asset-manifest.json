@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Strawhats/static/css/main.a467ec34.chunk.css",
+    "main.js": "/React-Strawhats/static/js/main.9b3fc6a9.chunk.js",
+    "main.js.map": "/React-Strawhats/static/js/main.9b3fc6a9.chunk.js.map",
+    "runtime-main.js": "/React-Strawhats/static/js/runtime-main.32fe18a7.js",
+    "runtime-main.js.map": "/React-Strawhats/static/js/runtime-main.32fe18a7.js.map",
+    "static/js/2.fd9b7cd5.chunk.js": "/React-Strawhats/static/js/2.fd9b7cd5.chunk.js",
+    "static/js/2.fd9b7cd5.chunk.js.map": "/React-Strawhats/static/js/2.fd9b7cd5.chunk.js.map",
+    "index.html": "/React-Strawhats/index.html",
+    "precache-manifest.5a0e6f5efd499253854c6f19a51e8b56.js": "/React-Strawhats/precache-manifest.5a0e6f5efd499253854c6f19a51e8b56.js",
+    "service-worker.js": "/React-Strawhats/service-worker.js",
+    "static/css/main.a467ec34.chunk.css.map": "/React-Strawhats/static/css/main.a467ec34.chunk.css.map",
+    "static/js/2.fd9b7cd5.chunk.js.LICENSE.txt": "/React-Strawhats/static/js/2.fd9b7cd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32fe18a7.js",
+    "static/js/2.fd9b7cd5.chunk.js",
+    "static/css/main.a467ec34.chunk.css",
+    "static/js/main.9b3fc6a9.chunk.js"
+  ]
+}
